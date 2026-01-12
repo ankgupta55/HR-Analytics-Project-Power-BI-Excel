@@ -1,1 +1,1 @@
-# HR-Analytics-Project-Power-BI-Excel
+# HR Data Analytics using Excel and Power BI
