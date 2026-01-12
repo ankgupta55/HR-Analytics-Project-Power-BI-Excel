@@ -9,10 +9,10 @@ HR of the Atliq company wanted to track the employees' insights.
 2. The Dashboard can save 3-4 Hours of work for the HR Daily.
 3. This Dashboard can easily save 3-4 hours of work for the HR Daily
 
-Dashboard Interaction : 
+Dashboard Interaction: <a href = "https://github.com/ankgupta55/HR-Analytics-Project-Power-BI-Excel/blob/main/HR%20Analytics.png"> View Dasboard</a>
 
 ## Steps Involved:
-- Import the Excel file to the power BI, perform data cleaning and transformation in Power Query.
+- Import the Excel file into Power BI, perform data cleaning and transformation in Power Query.
 - Create Calculated Columns and Measures using the DAX.
 - Build an interactive dashboard and apply a slicer to make it dynamic.
 
